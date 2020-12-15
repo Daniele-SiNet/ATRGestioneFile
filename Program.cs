@@ -11,6 +11,8 @@ namespace ATRGestioneFile
         static void Main()
         {
 
+            string a ="a";
+
 
         }
     }
